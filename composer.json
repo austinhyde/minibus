@@ -1,0 +1,23 @@
+{
+    "name": "austinhyde/php-commandbus",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Austin Hyde",
+            "email": "austin109@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "require-dev": {
+        "php" : ">=5.6.0",
+        "phpunit/phpunit" : "4.*"
+    },
+     "autoload": {
+        "psr-4": { "Minibus\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Minibus\\Test\\": "tests/" }
+    }
+}
