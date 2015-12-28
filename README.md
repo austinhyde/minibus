@@ -13,6 +13,10 @@ more complex, keeping the interface separate from the implementation like this i
 Ross Tuck gave an [exemplary talk](https://www.youtube.com/watch?v=ajhqScWECMo) outlining service layers
 and command busses - I recommend you watch this if you think you need a command bus.
 
+## Installation
+
+Via composer: `composer require austinhyde/minibus`
+
 # Usage
 
 Minibus provides an extremely simple command bus implementation out of the box: `Minibus\Bus`.
