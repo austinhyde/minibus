@@ -1,5 +1,6 @@
 {
     "name": "austinhyde/minibus",
+    "description": "A lightweight command bus implementation",
     "license": "MIT",
     "authors": [
         {
