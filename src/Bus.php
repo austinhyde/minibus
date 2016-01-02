@@ -4,6 +4,7 @@ namespace Minibus;
 use InvalidArgumentException;
 use LogicException;
 use ReflectionFunction;
+use ReflectionMethod;
 
 class Bus implements CommandBusInterface
 {

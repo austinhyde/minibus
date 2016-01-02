@@ -14,7 +14,7 @@
         "php" : ">=5.6.0",
         "phpunit/phpunit" : "4.*"
     },
-     "autoload": {
+    "autoload": {
         "psr-4": { "Minibus\\": "src/" }
     },
     "autoload-dev": {
